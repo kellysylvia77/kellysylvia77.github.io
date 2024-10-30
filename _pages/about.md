@@ -15,9 +15,14 @@ My research interest includes machine learning, graph deep learning and data min
 
 NEWS (2024-2025/二年级)
 -----
-September 21st | Awarded outstanding Communist Party member of ZJNU.
+
+📩September 21st | Awarded outstanding Communist Party member of ZJNU.
 
 
 Contact me
 ------
 📧: tingyicai@zjnu.edu.cn / 1525447247@qq.com
+
+Friendly link
+-----
+[ccf-deadlines](https://ccfddl.com/)
