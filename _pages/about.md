@@ -16,6 +16,8 @@ My research interest includes machine learning, graph deep learning and data min
 NEWS (2024-2025/二年级)
 -----
 
+📩November 10th | Won the fifth prize in badminton competition of ZJNU.
+
 📩September 21st | Awarded outstanding Communist Party member of ZJNU.
 
 
