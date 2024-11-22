@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "live.png"
-  name             : "PhD candidate"
+  name             : "PhD student" # "PhD candidate"
   pronouns         : # example: "she/her"  
   bio              : "Zhejiang Key Laboratory of Intelligent Education Technology and Application"
   location         : "China"
