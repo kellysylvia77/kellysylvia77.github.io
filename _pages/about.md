@@ -17,6 +17,7 @@ My research interest includes machine learning, graph deep learning and data min
 NEWS (2024-2025/二年级)
 -----
 
+🉑December 9th | Cai, Tingyi, et al. "ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection" accepted by aaai2025.
 🥇November 29th | Honored as one of the 'Top Ten Academic Exemplars' of CST.
 🏸November 10th | Won the 5th prize in badminton competition of ZJNU.
 🥇September 21st | Recognized as an 'Outstanding Communist Party Member' of ZJNU.
