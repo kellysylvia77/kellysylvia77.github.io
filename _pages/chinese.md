@@ -20,9 +20,9 @@ redirect_from:
 
 * Li M, Fang Y, **Wang Y(通讯)**, Feng H, Gu Y, Bai L, Pietro Lio. "Deep hypergraph neural networks with tight framelets" is accepted by AAAI 2025.
 
-* **Wang Y**, Huang C, Li M, Huang Q, Wu X, Wu J. AG-Meta: Adaptive graph meta-learning via representation consistency over local subgraphs[J]. Pattern Recognition, 2024, 151: 110387. 
+* **Wang Y**, Huang C, Li M, Huang Q, Wu X, Wu J. AG-Meta: Adaptive graph meta-learning via representation consistency over local subgraphs. Pattern Recognition, 2024, 151: 110387. 
 
-* Huang C, **Wang Y**, Jiang Y, Li M, Huang X, Wang S, Pan S, Zhou C. Flow2GNN: Flexible two-way flow message passing for enhancing GNNs beyond homophily[J]. IEEE Transactions on Cybernetics, 2024, 54(11): 6607-6618. 
+* Huang C, **Wang Y**, Jiang Y, Li M, Huang X, Wang S, Pan S, Zhou C. Flow2GNN: Flexible two-way flow message passing for enhancing GNNs beyond homophily. IEEE Transactions on Cybernetics, 2024, 54(11): 6607-6618. 
 
 * Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. 
 
