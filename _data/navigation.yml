@@ -11,6 +11,9 @@ main:
   - title: "中文"
     url: /chinese/
 
+  - title: "HHL"
+    url: /HHL/
+
   # - title: "Talks"
   #   url: /talks/    
 
