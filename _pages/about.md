@@ -27,9 +27,9 @@ My research interests include graph machine learning, hypergraph computing and i
 
 * Gu Y, **Wang Y**, Zhang H, Wu J, Gu X. Enhancing text classification by graph neural networks with multi-granular topic-aware graph. IEEE Access, 2023, 11: 20169-20183.
 
-* Ye H, **Wang Y**, Cao F. A novel meta-learning framework: Multi-features adaptive aggregation method with information enhancer. Neural Networks, 2021, 144: 755-765.
-
 * **Wang Y**, Ye H, Cao F. A novel multi-discriminator deep network for image segmentation. Applied Intelligence, 2022, 52(1): 1092-1109.
+
+* Ye H, **Wang Y**, Cao F. A novel meta-learning framework: Multi-features adaptive aggregation method with information enhancer. Neural Networks, 2021, 144: 755-765.
 
 * Li M, Wang X, **Wang Y**, et al. Study-GNN: A novel pipeline for student performance prediction based on multi-topology graph neural networks[J]. Sustainability, 2022, 14(13): 7965. 
 
