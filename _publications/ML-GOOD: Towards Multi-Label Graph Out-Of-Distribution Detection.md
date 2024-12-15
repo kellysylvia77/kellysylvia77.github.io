@@ -2,14 +2,10 @@
 title: "ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection"
 collection: publications
 category: manuscripts
+venue: AAAI, 2025
 permalink: /publication/ML-GOOD
 excerpt: 'This paper is the first to address graph OOD detection in multi-label classification by leveraging energy functions, demonstrating improved performance across diverse datasets.'
-Accepted by AAAI 2025
-citation: 
->@inproceedings{Cai2025MLGOOD, 
-author = {Cai, Tingyi and Jiang, Yunliang and Li, Ming and Huang, Changqin and Wang, Yi and Huang, Qionghao},
-title = {ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection},
-year = {2025},
-booktitle = {AAAI},
-}
 
+citation: "Cai, Tingyi and Jiang, Yunliang and Li, Ming and Huang, Changqin and Wang, Yi and Huang, Qionghao. ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection. AAAI, 2025."
+
+---
