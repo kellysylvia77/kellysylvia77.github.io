@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my MS degree from in Applied Mathematics from [CJU](https://www.zjnu.edu.cn/main.htm), in 2021. I am currently working toward the Ph.D degree.
+I received my MS degree from in Applied Mathematics from [CJLU](https://www.cjlu.edu.cn), in 2021. I am currently working toward the Ph.D degree.
 
 My research interests include graph machine learning, hypergraph computing and intelligence education.
 
