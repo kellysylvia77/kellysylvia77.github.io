@@ -25,7 +25,7 @@ My research interests include graph machine learning, hypergraph computing and i
 
 * Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. 
 
-* Gu Y, **Wang Y**, Zhang H, Wu J, Gu X. Enhancing text classification by graph neural networks with multi-granular topic-aware graph. IEEE Access, 2023, 11: 20169-20183.
+* Gu Y, **Wang Y(通讯)**, Zhang H, Wu J, Gu X. Enhancing text classification by graph neural networks with multi-granular topic-aware graph. IEEE Access, 2023, 11: 20169-20183.
 
 * **Wang Y**, Ye H, Cao F. A novel multi-discriminator deep network for image segmentation. Applied Intelligence, 2022, 52(1): 1092-1109.
 
