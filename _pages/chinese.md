@@ -24,10 +24,10 @@ redirect_from:
 
 * Huang C, **Wang Y**, Jiang Y, Li M, Huang X, Wang S, Pan S, Zhou C. Flow2GNN: Flexible two-way flow message passing for enhancing GNNs beyond homophily. IEEE Transactions on Cybernetics, 2024, 54(11): 6607-6618. 
 
-* Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. 
+* **Wang Y**, Ye H, Cao F. A novel multi-discriminator deep network for image segmentation. Applied Intelligence, 2022, 52(1): 1092-1109.
 
 * Gu Y, **Wang Y(通讯)**, Zhang H, Wu J, Gu X. Enhancing text classification by graph neural networks with multi-granular topic-aware graph. IEEE Access, 2023, 11: 20169-20183.
 
-* **Wang Y**, Ye H, Cao F. A novel multi-discriminator deep network for image segmentation. Applied Intelligence, 2022, 52(1): 1092-1109.
+* Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. 
 
 * Ye H, **Wang Y**, Cao F. A novel meta-learning framework: Multi-features adaptive aggregation method with information enhancer. Neural Networks, 2021, 144: 755-765.
