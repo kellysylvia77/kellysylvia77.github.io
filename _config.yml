@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "听依 / Tingyi Cai"
+title                    : "Cai, Tingyi (听依)"
 title_separator          : "-"
 name                     : &name "CTY"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ME.jpg"
-  name             : "PhD student" # "PhD candidate"
+  name             : "Tingyi Cai"
   pronouns         : # example: "she/her"  
-  bio              : "GraphME Lab"
+  bio              : "PhD student, CST, ZJNU" # "PhD candidate"
   location         : "China"
   employer         : "Zhejiang Normal University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.cz/citations?user=taYw6VsAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0003-3535-364X"
   semantic         : # URL
