@@ -5,6 +5,7 @@
 #main {
   @include container;
   @include clearfix;
+  margin-left: $sidebar-link-max-width;
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
