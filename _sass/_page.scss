@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-left: $sidebar-link-max-width;
+  margin-left: 300px;
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
@@ -13,7 +13,7 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: 1200px;/*$x-large;*/
+    max-width: none;/*$x-large;*/
   }
 }
 
