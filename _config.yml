@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ME2.jpg"
+  avatar           : "ME3.jpg"
   name             : "Wang Yi"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate, CST, ZJNU" # "PhD candidate"
