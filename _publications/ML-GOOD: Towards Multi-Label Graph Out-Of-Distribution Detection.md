@@ -9,6 +9,7 @@ excerpt: 'Heterophilic graph neural networks (GNNs) have gained prominence for t
 citation: "Wang Y, Huang C, Li M, Cai T, Zheng Z, Huang X. All roads lead to rome: Integrating out-of-distribution detection into heterophilic graph learning[C]// Proceeding of International Joint Conference on Artificial Intelligence (IJCAI). 2025."
 
 ---
+
 ---
 title: "When Hypergraph Meets Heterophily: New Benchmark Datasets and Baseline"
 collection: publications
@@ -23,6 +24,7 @@ excerpt: 'Existing HNNs primarily focus on scenarios characterized by homophily,
 citation: "Li M, Gu Y, Wang Y<sup>*</sup>, Fang Y, Bai L, Zhuang X, Pietro Lio. When hypergraph meets heterophily: New benchmark datasets and baseline[C]// Proceeding of AAAI Conference on Artificial Intelligence (AAAI). 2025, 39(17): 18377-18384."
 
 ---
+
 ---
 title: "ML-GOOD: Towards Multi-Label Graph Out-Of-Distribution Detection"
 collection: publications
