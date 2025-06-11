@@ -25,7 +25,7 @@ My research interests include graph machine learning, hypergraph computing and i
 
 * Huang C, **Wang Y**, Jiang Y, Li M, Huang X, Wang S, Pan S, Zhou C. Flow2GNN: Flexible two-way flow message passing for enhancing GNNs beyond homophily[J]. IEEE Transactions on Cybernetics, 2024, 54(11): 6607-6618. 
 
-* Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. (IEEE TKDE, Under Review)
+* Zheng X<sup>$</sup>, **Wang Y<sup>$</sup>**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. (IEEE TKDE, Under Review)
 
 * Cai T, Jiang Y, Li M, Bai L, Huang C, **Wang Y**. HyperNear: Unnoticeable node injection attacks on hypergraph neural networks is accepted by ICML 2025.
 
