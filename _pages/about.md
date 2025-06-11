@@ -15,9 +15,9 @@ My research interests include graph machine learning, hypergraph computing and i
 
 * **Wang Y**, Huang C, Li M, Cai T, Zheng Z, Huang X. All roads lead to rome: Integrating out-of-distribution detection into heterophilic graph learning is accepted by IJCAI 2025. 
 
-* Li M, Gu Y, **Wang Y(通讯)**, Fang Y, Bai L, Zhuang X, Pietro Lio. [When hypergraph meets heterophily: New benchmark datasets and baseline](https://github.com/kellysylvia77/HyperUFG). 2025, 39(17): 18377-18384.
+* Li M, Gu Y, **Wang Y^{*}**, Fang Y, Bai L, Zhuang X, Pietro Lio. [When hypergraph meets heterophily: New benchmark datasets and baseline](https://github.com/kellysylvia77/HyperUFG). 2025, 39(17): 18377-18384.
 
-* Li M, Fang Y, **Wang Y(通讯)**, Feng H, Gu Y, Bai L, Pietro Lio. Deep hypergraph neural networks with tight framelets. 2025, 39(17): 18385-18392.
+* Li M, Fang Y, **Wang Y^{*}**, Feng H, Gu Y, Bai L, Pietro Lio. Deep hypergraph neural networks with tight framelets. 2025, 39(17): 18385-18392.
 
 * Cai T, Jiang Y, Li M, Huang C, **Wang Y**, Huang Q. [ML-GOOD: Towards multi-label graph out-of-distribution detection](https://github.com/ca1man-2022/ML-GOOD). 2025, 39(15): 15650-15658. 
 
