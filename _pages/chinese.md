@@ -32,13 +32,11 @@ redirect_from:
 
 * Cai T, Jiang Y, Li M, Bai L, Huang C, **Wang Y**. HyperNear: Unnoticeable node injection attacks on hypergraph neural networks is accepted by ICML 2025.
 
-* Guo C, Wang X, Huang C, **Wang Y**, Gao C, Huang X. Multi-label feature selection via exploring reliable instance similarities is accepted by Knowledge-Based Systems. 2025.
+* Guo C, Wang X, Huang C, **Wang Y**, Gao C, Huang X. Multi-label feature selection via exploring reliable instance similarities is accepted by Knowledge-Based Systems. 2025. 113700.
 
 * **Wang Y**, Ye H, Cao F. A novel multi-discriminator deep network for image segmentation. Applied Intelligence, 2022, 52(1): 1092-1109.
 
 * Ye H, **Wang Y**, Cao F. A novel meta-learning framework: Multi-features adaptive aggregation method with information enhancer. Neural Networks, 2021, 144: 755-765.
-
-* Li M, Wang X, **Wang Y**, et al. Study-GNN: A novel pipeline for student performance prediction based on multi-topology graph neural networks[J]. Sustainability, 2022, 14(13): 7965. 
 
 * Huang C, Zhang J, Wu X, **Wang Y**, Li M, Huang X. TeFNA: Text-centered fusion network with crossmodal attention for multimodal sentiment analysis[J]. Knowledge-Based Systems, 2023, 269: 110502. 
 
