@@ -24,11 +24,11 @@ author:
   avatar           : "ME3.jpg"
   name             : "Wang Yi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate, CST, ZJNU" # "PhD candidate"
+  bio              : "Postdoc, CityU" # "PhD candidate, CST, ZJNU" # "PhD candidate"
   location         : "China"
-  employer         : "Zhejiang Normal University"
+  employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : "wangyi@zjnu.edu.cn" # "none@example.org" 
+  email            : "ywan7@cityu.edu.hk; wangyi@zjnu.edu.cn" # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
