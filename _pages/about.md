@@ -21,7 +21,7 @@ My research interests include graph machine learning, hypergraph computing and i
   
 * Yang J, **Wang Y<sup>*</sup>**, Huang C, Huang Q, Huang X. CuGNN: cross-perspective contrastive learning for enhancing unsupervised GNNs beyond homophily. International Journal of Machine Learning and Cybernetics, 2026.
 
-* **Wang Y**, Huang C, Li M, Cai T, Zheng Z, Huang X. All roads lead to rome: Integrating out-of-distribution detection into heterophilic graph learning is accepted by IJCAI 2025. 
+* **Wang Y**, Huang C, Li M, Cai T, Zheng Z, Huang X. [All roads lead to rome: Integrating out-of-distribution detection into heterophilic graph learning](https://www.ijcai.org/proceedings/2025/0722.pdf). IJCAI, 2025: 6487--6495. 
 
 * Li M, Gu Y, **Wang Y<sup>*</sup>**, Fang Y, Bai L, Zhuang X, Pietro Lio. [When hypergraph meets heterophily: New benchmark datasets and baseline](https://github.com/kellysylvia77/HyperUFG). 2025, 39(17): 18377-18384.
 
