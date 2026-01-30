@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my MS degree from in Applied Mathematics from [CJLU](https://www.cjlu.edu.cn), in 2021; and my Ph.D degree from in Computer Science from [ZJNU](https://www.zjnu.edu.cn/main.htm)
+I received my MS degree from in Applied Mathematics from [CJLU](https://www.cjlu.edu.cn), in 2021; and my Ph.D degree from in Computer Science from [ZJNU](https://www.zjnu.edu.cn/main.htm), in 2025.
 
 I am currently working toward the Postdoc at City University of Hong Kong.
 
