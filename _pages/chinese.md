@@ -20,6 +20,8 @@ redirect_from:
 * Li M, **Wang Y(通讯)**, Chengling Gao, Lu Bai, Yujie Fang, Xiaosheng Zhuang, Pietro Lio. Permutation Equivariant Framelet-based Hypergraph Neural Networks is accepted by AAAI 2026 (Oral).
 
 * Huang C, Sun J, Zha L, **Wang Y(通讯)**, Huang X. Beyond Homophily: Adaptive Cross-Frequency Convolution for Hypergraph Learning[J]. Knowledge-Based Systems, 2026, 115064.
+  
+* Yang J, **Wang Y(通讯)**, Huang C, Huang Q, Huang X. CuGNN: cross-perspective contrastive learning for enhancing unsupervised GNNs beyond homophily. International Journal of Machine Learning and Cybernetics, 2026.
 
 * **Wang Y**, Huang C, Li M, Cai T, Zheng Z, Huang X. [All roads lead to rome: Integrating out-of-distribution detection into heterophilic graph learning](https://www.ijcai.org/proceedings/2025/0722.pdf). IJCAI, 2025: 6487--6495. 
 
