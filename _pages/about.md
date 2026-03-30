@@ -15,6 +15,8 @@ My research interests include graph machine learning, hypergraph computing and i
 
 # Paper List 📰
 
+* Zheng X<sup>$</sup>, **Wang Y<sup>$</sup>**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). IEEE TKDE, 2026. (Accept)
+
 * Li M, **Wang Y<sup>*</sup>**, Chengling Gao, Lu Bai, Yujie Fang, Xiaosheng Zhuang, Pietro Lio. Permutation Equivariant Framelet-based Hypergraph Neural Networks is accepted by AAAI 2026 (Oral).
 
 * Huang C, Sun J, Zha L, **Wang Y<sup>*</sup>**, Huang X. Beyond Homophily: Adaptive Cross-Frequency Convolution for Hypergraph Learning[J]. Knowledge-Based Systems, 2026, 115064.
@@ -32,8 +34,6 @@ My research interests include graph machine learning, hypergraph computing and i
 * **Wang Y**, Huang C, Li M, Huang Q, Wu X, Wu J. AG-Meta: Adaptive graph meta-learning via representation consistency over local subgraphs[J]. Pattern Recognition, 2024, 151: 110387. 
 
 * Huang C, **Wang Y**, Jiang Y, Li M, Huang X, Wang S, Pan S, Zhou C. Flow2GNN: Flexible two-way flow message passing for enhancing GNNs beyond homophily[J]. IEEE Transactions on Cybernetics, 2024, 54(11): 6607-6618. 
-
-* Zheng X<sup>$</sup>, **Wang Y<sup>$</sup>**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). arXiv preprint arXiv:2202.07082, 2022. (IEEE TKDE, Under Review)
 
 * Cai T, Jiang Y, Li M, Bai L, Huang C, **Wang Y**. HyperNear: Unnoticeable node injection attacks on hypergraph neural networks is accepted by ICML 2025.
 
