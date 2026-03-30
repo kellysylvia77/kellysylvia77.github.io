@@ -9,7 +9,7 @@ redirect_from:
 
 She received MS degree from in Applied Mathematics from [CJLU](https://www.cjlu.edu.cn), in 2021; and her Ph.D degree from in Computer Science from [ZJNU](https://www.zjnu.edu.cn/main.htm), in 2025.
 
-She currently working toward the Postdoc at City University of Hong Kong.
+She currently works toward the Postdoc at City University of Hong Kong.
 
 Her research interests include graph machine learning, hypergraph computing and intelligence education.
 
