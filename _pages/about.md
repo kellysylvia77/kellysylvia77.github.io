@@ -18,6 +18,8 @@ Her research interests include graph machine learning, hypergraph computing and 
 * Zheng X<sup>$</sup>, **Wang Y<sup>$</sup>**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). IEEE TKDE, 2026. (Accept)
 
 * Li M, **Wang Y<sup>*</sup>**, Chengling Gao, Lu Bai, Yujie Fang, Xiaosheng Zhuang, Pietro Lio. Permutation Equivariant Framelet-based Hypergraph Neural Networks is accepted by AAAI 2026 (Oral).
+  
+* Gu Y, **Wang Y**, Wang X, Mao J, Li H, Li M. From Local to Global: Hypergraph Neural Networks with Holistic Message Passing. Applied Soft Computing, 2026(197): 115166.
 
 * Huang C, Sun J, Zha L, **Wang Y<sup>*</sup>**, Huang X. Beyond Homophily: Adaptive Cross-Frequency Convolution for Hypergraph Learning[J]. Knowledge-Based Systems, 2026, 115064.
   
