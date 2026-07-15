@@ -19,6 +19,8 @@ redirect_from:
 # 代表作
 * Zheng X, **Wang Y(共一)**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). IEEE TKDE, 2026. (Accept)
 
+* Huang C, Cheng X, **Wang Y(通讯)**, Zeng H, Huang X, Huang Q. Affect is Key: Enhancing Knowledge Tracing with Hypergraph-based Affective State Modeling[J]. Expert Systems With Applications, 2026, 331: 133323. 
+
 * Li M, **Wang Y(通讯)**, Chengling Gao, Lu Bai, Yujie Fang, Xiaosheng Zhuang, Pietro Lio. Permutation Equivariant Framelet-based Hypergraph Neural Networks is accepted by AAAI 2026 (Oral).
   
 * Gu Y, **Wang Y**, Wang X, Mao J, Li H, Li M. From Local to Global: Hypergraph Neural Networks with Holistic Message Passing. Applied Soft Computing, 2026(197): 115166.
