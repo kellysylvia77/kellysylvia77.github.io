@@ -17,7 +17,7 @@ Her research interests include graph machine learning, hypergraph computing and 
 
 * Zheng X<sup>$</sup>, **Wang Y<sup>$</sup>**, Liu Y, Li M, Zhang M, Jin D, Philip S. Yu, Pan S. [Graph neural networks for graphs with heterophily: A survey](https://arxiv.org/pdf/2202.07082). IEEE TKDE, 2026. (Accept)
 
-* Huang C, Cheng X, **Wang Y(通讯)**, Zeng H, Huang X, Huang Q. Affect is Key: Enhancing Knowledge Tracing with Hypergraph-based Affective State Modeling[J]. Expert Systems With Applications, 2026, 331: 133323. 
+* Huang C, Cheng X, **Wang Y<sup>*</sup>**, Zeng H, Huang X, Huang Q. Affect is Key: Enhancing Knowledge Tracing with Hypergraph-based Affective State Modeling[J]. Expert Systems With Applications, 2026, 331: 133323. 
 
 * Li M, **Wang Y<sup>*</sup>**, Chengling Gao, Lu Bai, Yujie Fang, Xiaosheng Zhuang, Pietro Lio. Permutation Equivariant Framelet-based Hypergraph Neural Networks is accepted by AAAI 2026 (Oral).
   
